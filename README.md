@@ -2,7 +2,7 @@
 
 This project presents a deep learning-based approach to channel estimation in mmWave and mMIMO systems using realistic simulation data from the DeepMIMO v2 dataset. By leveraging advanced CNN architectures, the system estimates channel responses from noisy observations, providing a robust solution for challenging propagation environments.
 
-**Overview**
+**Overview:**
 
 **Realistic Data Integration:**
 The project utilizes the DeepMIMO v2 dataset to generate realistic channel data. Complex channel coefficients are converted to amplitude, scaled appropriately, and corrupted with additive white Gaussian noise (AWGN) to mimic real-world conditions. A representative 1D channel vector is then used for training.
